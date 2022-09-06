@@ -1,3 +1,5 @@
+// 자바스크립트 버전
+
 // import { createStore } from 'redux';
 
 // const add = document.getElementById('add');
